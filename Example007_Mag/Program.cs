@@ -8,7 +8,7 @@ Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
 
 Console.SetCursorPosition(xb, yb);
-Console.WriteLine("+"); 
+Console.WriteLine("+");  
 
 Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
